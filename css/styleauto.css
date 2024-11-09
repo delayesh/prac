@@ -1,0 +1,107 @@
+body{
+    
+}
+
+.zag{
+    color: #2b2b2b;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    position: relative;
+    width: 123px;
+    height: 68px;
+    margin-left: 47%;
+    margin-top: 5%;
+}
+
+.slog {
+    color: #2b2b2b;
+    text-align: center;
+    position: relative;
+    height: 189px;
+    margin-left: 0%;
+    margin-top: 2%;
+}
+  
+.slog1 {
+    color: #2b2b2b;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+  
+.slog2 {
+    color: #2b2b2b;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+  
+.slog3 {
+    color: #2b2b2b;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+ 
+.slog4 {
+    color: #2b2b2b;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+  
+.slog5 {
+    color: #2b2b2b;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.form-group{
+    margin-left:36%;
+    padding-top: 2%;
+}
+
+.form-control{
+    width:40%;
+    height:35px;
+    border-radius: 12px;
+    padding-left: 2%;
+    color: #d4d4d4;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 20px;
+}
+
+.btn-primary{
+    background-color:  #2b2b2b;
+    border-radius: 12px;
+    color: #d4d4d4;
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 20px;
+    margin-left:44%;
+    margin-top: 4%;
+}
+
+.btn-primary:hover{
+    cursor: pointer;
+}
+
+.reg{
+    text-align: center;
+    width: 20%;
+    height: 25px;
+    margin-left:39%;
+    margin-top: 33px;
+}
+
+.col{
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    position: relative;
+    color: #2b2b2b;
+}

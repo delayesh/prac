@@ -1,0 +1,235 @@
+header{
+    width: 102.4%;
+    height: 150px;
+    background-color:#2B2B2B;
+    margin-left: -2%;
+    margin-top: -8px;
+    position: fixed;
+    z-index: 1000; 
+}
+
+.btn-primary{
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 150%;
+    font-weight: 600;
+    position: relative;
+    width: 95px;
+    height: 41px;
+    margin-left: 87%;
+    top: -120px;
+}
+
+.btn-secondary{
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 150%;
+    font-weight: 600;
+    position: relative;
+    width: 95px;
+    height: 41px;
+    margin-left: 87%;
+    top: -120px;
+}
+
+.logo{
+    width: 157px;
+    height: 90px;
+    position: relative;
+    object-fit: cover;
+    margin-left: 44%;
+    top: -10%;
+}
+
+.nav1{
+    text-align: center;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 150%;
+    font-weight: 400;
+    position: relative;
+    width: 124px;
+    height: 41px;
+    margin-left: 34%;
+    top: 38%;
+}
+
+.nav2{
+    text-align: center;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 150%;
+    font-weight: 400;
+    position: relative;
+    width: 181px;
+    height: 41px;
+    margin-left: 55%;
+    top: -52%;
+}
+
+.navi{
+    color: #d4d4d4;
+    text-decoration: none;
+}
+
+.sc{
+    height: auto;
+    width: 60%;
+    margin-top: 212px;
+    margin-left: 20%;
+}
+
+.priv {
+    color: #2b2b2b;
+    text-align: center;
+    position: relative;
+    height: 531px;
+}
+
+.divspan {
+    color: #2b2b2b;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+  
+.divspan2 {
+    color: #2b2b2b;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    width: 50px;
+}
+
+.va{
+    height: auto;
+    width: 27%;
+    margin-top: 250px;
+    margin-left: 36.5%;
+}
+
+.bva{
+    color: #2b2b2b;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    height: 54px;
+}
+
+.opis{
+    color: #2b2b2b;
+    text-align: center;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    position: relative;
+    height: 164px;
+}
+
+.osebe {
+    color: #2b2b2b;
+    text-align: center;
+    font-family: "-", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    position: relative;
+    height: 246px;
+}
+  
+.osebe2 {
+    color: #2b2b2b;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+  
+.osebe3 {
+    color: #2b2b2b;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+footer{
+    background: #2b2b2b;
+    height: 150px;
+    position: relative;
+    width: 102.4%;
+    margin-left: -2%;
+    margin-bottom: -8px;
+}
+
+.numtel{
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    width: 152px;
+    height: 50px;
+    margin-left: 20%;
+    top: -40px;
+}
+
+.tel{
+    color: #d4d4d4;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.num{
+    color: #ffffff;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.emadr{
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    width: 152px;
+    height: 50px;
+    margin-left: 43%;
+    top: -90.7px;
+}
+
+.em{
+    color: #d4d4d4;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.adr{
+    color: #ffffff;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.vk{
+    width: 2%;
+    height: auto;
+    margin-left: 83%;
+    padding-top: 60.7px;
+}
+
+.prof{
+    position: relative;
+    width: 3%;
+    height: auto;
+    margin-left: 80%;
+    bottom: 160px
+}
+
+

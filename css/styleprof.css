@@ -1,0 +1,233 @@
+header{
+    width: 102.4%;
+    height: 150px;
+    background-color:#2B2B2B;
+    margin-left: -2%;
+    margin-top: -8px;
+    position: fixed;
+    z-index: 1000; 
+}
+
+.btn-primary{
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 150%;
+    font-weight: 600;
+    position: relative;
+    width: 95px;
+    height: 41px;
+    margin-left: 87%;
+    top: -120px;
+}
+
+.btn-secondary{
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 150%;
+    font-weight: 600;
+    position: relative;
+    width: 95px;
+    height: 41px;
+    margin-left: 87%;
+    top: -120px;
+}
+
+.logo{
+    width: 157px;
+    height: 90px;
+    position: relative;
+    object-fit: cover;
+    margin-left: 44%;
+    top: -10%;
+}
+
+.nav1{
+    text-align: center;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 150%;
+    font-weight: 400;
+    position: relative;
+    width: 124px;
+    height: 41px;
+    margin-left: 34%;
+    top: 38%;
+}
+
+.nav2{
+    text-align: center;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 150%;
+    font-weight: 400;
+    position: relative;
+    width: 181px;
+    height: 41px;
+    margin-left: 55%;
+    top: -52%;
+}
+
+.navi{
+    color: #d4d4d4;
+    text-decoration: none;
+}
+
+@media (min-width: 900px) and (max-width: 1920px){
+    .ramprof{
+        width: 95%;
+        height: 600px;
+        background-color: #d4d4d4;
+        position: relative;
+        border-radius: 15px;
+        top: 200px;
+        margin-bottom: 400px;
+        margin-left: 3%;
+    }
+
+    .proficon{
+        width: 30%;
+        position: relative;
+        object-fit: cover;
+        margin-left: 10%;
+        bottom: 780px;
+    }
+
+ 
+
+}
+
+.linfo1{
+    color: #2b2b2b;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    width: 108px;
+    height: 46px;
+    margin-left: 50%;
+    top: -1200px;
+}
+
+
+.linfo2{
+    color: #2b2b2b;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    width: 108px;
+    height: 46px;
+    margin-left: 50%;
+    top: -1200px;
+}
+
+
+.linfo3{
+    color: #2b2b2b;
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    position: relative;
+    width: 108px;
+    height: 46px;
+    margin-left: 50%;
+    top: -1200px;
+}
+
+.primary2{
+    background-color:  #2b2b2b;
+    border-radius: 12px;
+    color: #d4d4d4;
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    font-family: "OpenSans-Regular", sans-serif;
+    font-size: 100%;
+    margin-left:44%;
+    top: 100px;
+}
+
+footer{
+    background: #2b2b2b;
+    height: 150px;
+    position: relative;
+    width: 102.4%;
+    margin-left: -2%;
+    margin-bottom: -8px;
+}
+
+.numtel{
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    width: 152px;
+    height: 50px;
+    margin-left: 20%;
+    top: -40px;
+}
+
+.tel{
+    color: #d4d4d4;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.num{
+    color: #ffffff;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.emadr{
+    text-align: center;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    width: 152px;
+    height: 50px;
+    margin-left: 43%;
+    top: -90.7px;
+}
+
+.em{
+    color: #d4d4d4;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.adr{
+    color: #ffffff;
+    font-family: "OpenSans-SemiBold", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.vk{
+    width: 2%;
+    height: auto;
+    margin-left: 83%;
+    padding-top: 60.7px;
+}
+
+.prof{
+    position: relative;
+    width: 3%;
+    height: auto;
+    margin-left: 80%;
+    bottom: 160px
+}
+
+
